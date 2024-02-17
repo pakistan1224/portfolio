@@ -7,8 +7,8 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 1,
-    title: "React Portfolio Website",
-    description: "Project 1 description",
+    title: "Messaging App",
+    description: "Real-time Messaging App  using Socket.io  and Node.js",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
     gitUrl: "/",
@@ -16,8 +16,8 @@ const projectsData = [
   },
   {
     id: 2,
-    title: "Potography Portfolio Website",
-    description: "Project 2 description",
+    title: "Bus Reservation System",
+    description: "Online Bus Reservation using PHP,Laravel",
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
     gitUrl: "/",
@@ -26,7 +26,7 @@ const projectsData = [
   {
     id: 3,
     title: "E-commerce Application",
-    description: "Project 3 description",
+    description: "E-commerce Website using  React & Redux",
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
     gitUrl: "/",
@@ -34,8 +34,8 @@ const projectsData = [
   },
   {
     id: 4,
-    title: "Food Ordering Application",
-    description: "Project 4 description",
+    title: "Hospital Managment System",
+    description: "Hospital Management System & appoinment  system using PHP,Laravel  & MySql",
     image: "/images/projects/4.png",
     tag: ["All", "Mobile"],
     gitUrl: "/",
@@ -43,8 +43,8 @@ const projectsData = [
   },
   {
     id: 5,
-    title: "React Firebase Template",
-    description: "Authentication and CRUD operations",
+    title: "Expense Tracker",
+    description: "Tracker of expenses using React",
     image: "/images/projects/5.png",
     tag: ["All", "Web"],
     gitUrl: "/",
@@ -52,8 +52,8 @@ const projectsData = [
   },
   {
     id: 6,
-    title: "Full-stack Roadmap",
-    description: "Project 5 description",
+    title: "Facebook Clone ",
+    description: "A complete Facebook_Clone using  MERN Stack.",
     image: "/images/projects/6.png",
     tag: ["All", "Web"],
     gitUrl: "/",
